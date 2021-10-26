@@ -43,4 +43,6 @@ For Every Web Developer
 
 <a href="https://github.com/JeremyFagis/dropify" target="_blank">Dropify</a>
 
+<a href="https://www.dropzone.dev/js/" target="_blank">Dropzone</a>
+
 <a href="https://summernote.org/" target="_blank">Summernote</a>
