@@ -1,5 +1,5 @@
 # Necessary-Links
-Necessary links for every web developer
+For Every Web Developer
 
 <a href="https://stackoverflow.com/questions">Stack Overflow Queries</a>
 
