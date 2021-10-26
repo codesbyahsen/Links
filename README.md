@@ -43,4 +43,4 @@ Necessary links for every web developer
 
 <a href="https://github.com/JeremyFagis/dropify" target="_blank">Dropify</a>
 
-<a href="https://summernote.org/" target="_blank">Dropify</a>
+<a href="https://summernote.org/" target="_blank">Summernote</a>
