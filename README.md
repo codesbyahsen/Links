@@ -8,7 +8,7 @@
 <table>
         <tr>
             <th colspan="4">
-                Vendors
+                Vendors & Solutions
             </th>
         </tr>
         <tr>
