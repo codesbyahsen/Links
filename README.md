@@ -165,4 +165,15 @@
                 href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related">WhatFont</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg/related">Wappalyzer</a>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+    </tr>
 </table>
