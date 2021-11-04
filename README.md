@@ -1,5 +1,9 @@
 # Necessary-Links
-For Every Web Developer
+
+<h3>For Every Web Developer (Specially Laravel)</h3>
+
+<br>
+<h3>VENDORS</h3>
 
 <table>
         <tr>
@@ -92,3 +96,73 @@ For Every Web Developer
             </td>
         </tr>
     </table>
+
+<br>
+<h3>EXTENSIONS</h3>
+
+<table>
+    <tr>
+        <th colspan="4">
+            Extensions for Chrome
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <a
+                href="https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related">ColorPick
+                Eyedropper</a>
+        </td>
+        <td>
+            <a
+                href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp">ColorZilla</a>
+        </td>
+        <td>
+            <a
+                href="https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce/related">CSSViewer</a>
+        </td>
+        <td>
+            <a href="https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal">Page
+                Ruler Redux</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a
+                href="https://chrome.google.com/webstore/detail/responsive-design-tester/jjmifbmfdmkmpkminjccilaooelhmhen">Responsive
+                Design Tester</a>
+        </td>
+        <td>
+            <a
+                href="https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl">GoFullPage
+                - Full Page Screen Capture</a>
+        </td>
+        <td>
+            <a
+                href="https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related">Lorem
+                Ipsum Generator</a>
+        </td>
+        <td>
+            <a href="https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en">Clear
+                Cache</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo">Fake
+                Filler</a>
+        </td>
+        <td>
+            <a
+                href="https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp/related?hl=en">Web
+                Developer Checklist</a>
+        </td>
+        <td>
+            <a href="https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo">Postman
+                Interceptor</a>
+        </td>
+        <td>
+            <a
+                href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related">WhatFont</a>
+        </td>
+    </tr>
+</table>
