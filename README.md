@@ -95,6 +95,20 @@
                 <a href="https://summernote.org/" target="_blank">Summernote</a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://windows.php.net/downloads/releases/archives/" target="_blank">PHP All Releases</a>
+            </td>
+            <td>
+                <a href="https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/" target="_blank">PHP All Xampp Versions</a>
+            </td>
+            <td>
+                <a href="https://laravel.com/docs/8.x" target="_blank">Laravel</a>
+            </td>
+            <td>
+                <a href="https://laravel-livewire.com/docs/2.x/quickstart" target="_blank">Laravel Livewire</a>
+            </td>
+        </tr>
     </table>
 
 <br>
