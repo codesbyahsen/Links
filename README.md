@@ -184,6 +184,7 @@
             <a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg/related">Wappalyzer</a>
         </td>
         <td>
+            <a href="https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-and-ca/liecbddmkiiihnedobmlmillhodjkdmb">Loom - Free Screen & Cam Recorder </a>
         </td>
         <td>
         </td>
