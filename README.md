@@ -109,6 +109,17 @@
                 <a href="https://laravel-livewire.com/docs/2.x/quickstart" target="_blank">Laravel Livewire</a>
             </td>
         </tr>
+        <tr>
+            <td>
+                    <a href="https://reactjs.org/">React.js</a>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
     </table>
 
 <br>
